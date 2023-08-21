@@ -1,9 +1,9 @@
-# SecurBank Demo Site
+# Accenture Demo Site
 Built using Next Generation Composability from AEM
 
 ## Environments
-- Preview: https://main--securbank-www--markszulc.hlx.page/
-- Live: https://www.securbankdemo.com/
+- Preview: https://main--accenture--wfranksadobe.hlx.page/
+- Live: https://main--accenture--wfranksadobe.hlx.live/
 
 ## Installation
 
